@@ -1,0 +1,55 @@
+
+/* incomplete..i will finish asap */
+
+
+
+
+
+/* Background */
+
+#bg{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    align-self: center;
+}
+
+#bulboff{
+    position: relative;
+    height: 350px;
+    width: 500px;
+    z-index: 0;
+    top: 50px;
+    left: 500px;
+}
+
+#bulbon{
+    position: relative;
+    height: 350px;
+    width: 500px;
+    z-index: 0;
+    top: 50px;
+    left: 500px;
+}
+
+
+/* Texts */
+.Texts{
+    
+    
+    position: relative;
+    z-index: 1;
+}
+#heading{
+    color: orange;
+    text-align: center;
+}
+#hover{
+    color: red;
+    text-shadow: 2px 2px 6px;
+    text-align: center;
+    
+    
+   
+}
